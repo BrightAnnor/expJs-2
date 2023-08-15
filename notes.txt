@@ -1,0 +1,8 @@
+app.get('/',(req,res)=>{
+    res.send('Worked')
+});
+the code above has a route and controller
+
+
+SET Function - for doing settings on a server
+Use Function - 
